@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650997673 source:c:\users\bie_animation\onedrive\desktop\importants\eep\estrutura de dados\códigos extra feitos para treinar\pilha_estatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
